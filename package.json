@@ -8,6 +8,10 @@
     "test:node": "mocha test/test.js",
     "test": "npm run copy && npm run test:node"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canjs/can-ssr-plugin-react.git"
+  },
   "keywords": [
     "react",
     "can-ssr",
@@ -32,5 +36,9 @@
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "recursive-copy": "^1.0.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/canjs/can-ssr-plugin-react/issues"
+  },
+  "homepage": "https://github.com/canjs/can-ssr-plugin-react#readme"
 }
