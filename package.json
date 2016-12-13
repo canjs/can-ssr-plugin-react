@@ -21,8 +21,8 @@
   "author": "Bitovi",
   "license": "MIT",
   "dependencies": {
-    "can": "^2.3.4",
-    "jquery": "^2.1.4"
+    "can": "^3.2.2",
+    "jquery": "^3.1.1"
   },
   "system": {
     "npmDependencies": [
@@ -31,11 +31,11 @@
   },
   "devDependencies": {
     "can-ssr": "^0.11.0-pre.0",
-    "mocha": "^2.3.4",
+    "mocha": "^3.2.0",
     "node-fetch": "^1.3.3",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "recursive-copy": "^1.0.10"
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "recursive-copy": "^2.0.5"
   },
   "bugs": {
     "url": "https://github.com/canjs/can-ssr-plugin-react/issues"
