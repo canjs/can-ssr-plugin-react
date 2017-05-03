@@ -1,5 +1,7 @@
 # can-ssr-plugin-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-ssr-plugin-react.svg)](https://greenkeeper.io/)
+
 A plugin for can-ssr that makes it possible to mount to can-ssr's virtual DOM.
 
 ## Install
