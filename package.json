@@ -21,7 +21,7 @@
   "author": "Bitovi",
   "license": "MIT",
   "dependencies": {
-    "can": "^3.2.2",
+    "can": "^6.2.0",
     "jquery": "^3.1.1"
   },
   "system": {
